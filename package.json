@@ -1,13 +1,13 @@
 {
   "name": "cipp",
-  "version": "10.8.0",
+  "version": "10.8.1",
   "author": "CIPP Contributors",
   "homepage": "https://cipp.app/",
   "bugs": {
     "url": "https://github.com/CyberDrain/CIPP/issues"
   },
   "engines": {
-    "node": "^22.13.0"
+    "node": "^22.22.0"
   },
   "repository": {
     "type": "git",
@@ -134,7 +134,7 @@
     "eslint": "^9.39.4",
     "eslint-config-next": "^16.2.10",
     "eslint-config-prettier": "^10.1.8",
-    "jsdom": "30.0.1",
+    "jsdom": "29.0.1",
     "msw": "2.12.14",
     "msw-storybook-addon": "3.0.0",
     "playwright": "1.59.1",
